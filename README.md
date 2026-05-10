@@ -8,3 +8,12 @@
 # Hack any wifi using adapter 
 
 Full guidenece of hacking any wifi step by step .
+
+# Hack window 7 in just few minutes 
+
+If you not update your window , hacker must hack your window by using metasploit.
+Step by step guide 
+
+# Scan any nwtwork by using NMAP 
+
+Scanning is the first step of hacking 
