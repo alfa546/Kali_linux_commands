@@ -16,4 +16,5 @@ Step by step guide
 
 # Scan any nwtwork by using NMAP 
 
-Scanning is the first step of hacking 
+Scanning is the first step of hacking.
+Step by step guide how to scan any network and vulnerability.
